@@ -13,7 +13,7 @@ A minimal FastAPI backend for a chatbot that answers user questions based on liv
 
 ```bash
 git clone https://github.com/akki2000/crawller.git
-cd yourrepo
+cd crawller
 python -m venv venv
 source venv/bin/activate  # On Windows: venv\Scripts\activate
 pip install -r requirements.txt
