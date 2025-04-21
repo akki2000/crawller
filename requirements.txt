@@ -6,3 +6,5 @@ pydantic
 google-generativeai
 langchain
 faiss-cpu
+langchain-community
+google-genai
